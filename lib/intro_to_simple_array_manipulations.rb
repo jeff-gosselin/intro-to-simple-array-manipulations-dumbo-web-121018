@@ -40,5 +40,8 @@ end
 
 def using_delete(arr, str)
   if arr.include?(str) 
+    arr.delete(str)
+  end
+    e
 end
   
